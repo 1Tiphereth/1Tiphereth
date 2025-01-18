@@ -1,5 +1,3 @@
-# Project Moon modder ![](https://komarev.com/ghpvc/?username=1Tiphereth)
+# Peak C# User ![](https://komarev.com/ghpvc/?username=1Tiphereth)
 
-> Hacking apart Limbus Company since Canto 6!
-
-
+> the .net runtime hates me at this point, and I can see why...
